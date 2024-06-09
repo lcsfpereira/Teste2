@@ -1,7 +1,4 @@
-# Curso Digital: Git/Versionamento
+# Curso Digital: Git
 
-## Salvando modificações no Git
-
-## terceiro teste para ver quale do commit
-
-## mais uma vez mais mudanças 
+## Salvando alterações no Git
+* comando git push 
